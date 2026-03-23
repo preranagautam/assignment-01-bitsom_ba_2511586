@@ -1,3 +1,4 @@
+## Vector DB Use Case
 A traditional keyword-based database search would not suffice for this use case. Keyword search relies on exact or partial word matches, which fails when the query and the document use different phrasing. For example, a lawyer asking “What are the termination clauses?” may miss relevant sections titled “contract cancellation,” “exit conditions,” or “early termination rights.”
 Legal documents also contain dense, context-heavy language where meaning depends on semantics rather than specific keywords. As a result, keyword search leads to low recall (missing relevant results) and poor precision (irrelevant matches).
 
